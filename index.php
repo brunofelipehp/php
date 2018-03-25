@@ -1,3 +1,6 @@
+
 <?php
 
-echo "Hello word";
+echo "Ola mundo";
+
+?>
